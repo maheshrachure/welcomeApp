@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree-serif';
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+.description {
+  color: #ffffff;
+  font-family: 'Bree-serif';
+  font-size: 24px;
+}
